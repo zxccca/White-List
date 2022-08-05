@@ -1,9 +1,9 @@
-IDPlayers = {
+userids = {
 -- [айди игрока в роблоксе] = true,
 [675265962] = true,
 -- [] = true
 }
-return IDPlayers
+return userids
 
 -- айди игрока это цифры после /users/
 -- https://www.roblox.com/users/123456789/profile
