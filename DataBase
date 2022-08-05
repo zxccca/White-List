@@ -4,3 +4,6 @@ IDPlayers = {
 [айди игрока в роблоксе] = true
 }
 return IDPlayers
+
+-- айди игрока это цифры после /users/
+-- https://www.roblox.com/users/123456789/profile
