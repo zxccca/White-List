@@ -3,5 +3,5 @@ local Whitelst = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robo
 if Whitelst[game:service('Players').LocalPlayer.UserId] then
 print("yellow blue vase")-- Ваш скрипт
 else
-  game:service('Players').LocalPlayer:Kick('Not Whitelisted')
+  game:service('Players').LocalPlayer:Kick("bruh")
 end
